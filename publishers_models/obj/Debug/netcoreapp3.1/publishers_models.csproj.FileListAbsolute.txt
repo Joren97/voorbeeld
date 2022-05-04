@@ -1,0 +1,10 @@
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\bin\Debug\netcoreapp3.1\publishers_models.deps.json
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\bin\Debug\netcoreapp3.1\publishers_models.dll
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\bin\Debug\netcoreapp3.1\publishers_models.pdb
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.csproj.AssemblyReference.cache
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.AssemblyInfoInputs.cache
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.AssemblyInfo.cs
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.csproj.CoreCompileInputs.cache
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.dll
+C:\Projects\Datamanipulatie\08-dapper-inner-joins\dapper_inner_joins_oplossing_publishers\publishers_models\obj\Debug\netcoreapp3.1\publishers_models.pdb
