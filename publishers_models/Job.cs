@@ -10,6 +10,7 @@ namespace publishers_models
         public string job_desc { get; set; }
         public byte min_lvl { get; set; }
         public byte max_lvl { get; set; }
+		public string test {get;set;}
 
         public override string ToString()
         {
